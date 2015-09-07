@@ -13,7 +13,7 @@ defmodule ElixirChallenges.Util.SequenceTest do
       [index: 2, result: 1],
       [index: 3, result: 2],
       [index: 4, result: 3],
-      [index: 5, result: 6],
+      [index: 5, result: 5],
     ]
 
     tests 
